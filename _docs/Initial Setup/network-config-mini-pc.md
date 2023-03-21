@@ -1,5 +1,5 @@
 ---
-title: Network Configuration
+title: Network Configuration for Mini PC
 category: Setup
 order: 1
 ---
@@ -8,8 +8,7 @@ The Mini PC has two ethernet interfaces.  One is built into the PC and the other
 
 
 Network Details:
-
-2. Modbus Static IPv4 Address: 10.254.254.254
+Modbus Static IPv4 Address: 10.254.254.254
 3. PC Static IPv4 Address: 10.254.254.253
 4. IPv4 Subnet Mask: 255.255.255.0
 5. IPv4 Gateway: Leave it blank
