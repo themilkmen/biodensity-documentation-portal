@@ -1,17 +1,17 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: Network Configuration
+category: Setup
 order: 1
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+The Mini PC has two ethernet interfaces.  One is built into the PC and the other is provided through the USB C hub. ower and Cannon: Communication between PC and Modbus by standard Ethernet cable through static IPv4 Addresses:
 
-> Signing up with Facebook automatically starts syncing contacts.
 
-To sync your contacts:
+Network Details:
 
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
+2. Modbus Static IPv4 Address: 10.254.254.254
+3. PC Static IPv4 Address: 10.254.254.253
+4. IPv4 Subnet Mask: 255.255.255.0
+5. IPv4 Gateway: Leave it blank
 
-![](//placehold.it/800x600)
+The second ethernet port from the USB hub and the wifi should both be left on Automatic
