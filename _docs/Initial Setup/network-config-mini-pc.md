@@ -1,6 +1,6 @@
 ---
 title: Network Configuration for Mini PC
-category: Setup
+category: V5
 order: 1
 ---
 

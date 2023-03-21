@@ -1,6 +1,6 @@
 ---
 title: Network Configuration for the Modbus
-category: Setup
+category: v5
 order: 2
 ---
 
